@@ -11,6 +11,8 @@ body {
 
 .text-muted {
     color: #777;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 .text-primary {
