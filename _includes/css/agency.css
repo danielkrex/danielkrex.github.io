@@ -807,7 +807,7 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content ul.list-inline {
     margin-top: 0;
-    margin-bottom: 15px;
+    margin-bottom: 0px;
 }
 
 .portfolio-modal .modal-content img {
