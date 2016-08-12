@@ -870,3 +870,16 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
+
+#food-safety {
+    text-align: center;
+    color: #fff;
+    background-attachment: scroll;
+    background-image: url(../img/2_bkg.jpg);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
